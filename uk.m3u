@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="",BBC1
+#EXTINF:-1 tvg-id="BBCONE" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="",BBC1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1 tvg-id="BBC TWO" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="",BBC2
+#EXTINF:-1 tvg-id="BBCTWO" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="",BBC2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
