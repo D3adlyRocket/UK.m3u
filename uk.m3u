@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCOneLondonHD" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="",BBC1
+#EXTINF:-1 tvg-id="BBCOneLondonHD" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Entertainment",UK | BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1 tvg-id="BBCTWO" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="",BBC2
+#EXTINF:-1 tvg-id="BBCTWO" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+
+#EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="UK | Asian",UK | Sony MAX
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
