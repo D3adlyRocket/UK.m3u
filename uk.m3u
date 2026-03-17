@@ -6,5 +6,9 @@ https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 #EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
+#EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX HD
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8
+#EXTINF:-1 tvg-id="SONYPIX" tvg-logo="https://i.postimg.cc/nL3GF6nH/Sony-Pix.png" group-title="IN | Asian",IN | Sony PIX HD
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8
 #EXTINF:-1 tvg-id="ZCINEMA" tvg-logo="https://i.postimg.cc/TwN74zZj/Zee-Cinema.png" group-title="IN | Asian",IN | Zee Cinema HD
 https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8
