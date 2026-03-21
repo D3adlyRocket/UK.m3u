@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCOneLondonHD" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Entertainment",UK | BBC 1
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Entertainment",UK | BBC 1
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCTWO" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCTHREE" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Entertainment",UK | BBC Three
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Entertainment",UK | BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCFOUR" tvg-logo="https://i.postimg.cc/Bb3tTM7v/bbcfour.png" group-title="UK | Entertainment",UK | BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.postimg.cc/Bb3tTM7v/bbcfour.png" group-title="UK | Entertainment",UK | BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="ITV2" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Entertainment",UK | ITV2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Entertainment",UK | ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-id="ITV3" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Entertainment",UK | ITV3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Entertainment",UK | ITV3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-id="ITV4" tvg-logo="https://i.postimg.cc/9X7dkcx4/ITV4.png" group-title="UK | Entertainment",UK | ITV4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.postimg.cc/9X7dkcx4/ITV4.png" group-title="UK | Entertainment",UK | ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
