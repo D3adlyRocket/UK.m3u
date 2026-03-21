@@ -12,9 +12,9 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 
-#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-logo="" group-title="UK | Sports",UK | TNT Sports 2 HD
+#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-logo="https://i.postimg.cc/jdv2MTGW/tntsports2.png" group-title="UK | Sports",UK | TNT Sports 2 HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
-#EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="" group-title="UK | Sports",UK | Sky Sports Main Event HD
+#EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/x1w2RFT9/ssmainevent.jpg" group-title="UK | Sports",UK | Sky Sports Main Event HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="" group-title="UK | Sports",UK | Sky Sports Premier League HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
