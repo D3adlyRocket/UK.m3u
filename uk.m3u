@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Entertainment",UK | BBC 1
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Entertainment",UK | BBC Three
