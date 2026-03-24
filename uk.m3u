@@ -21,7 +21,9 @@ https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8
-#EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
+#EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
+http://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX
