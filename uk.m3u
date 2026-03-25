@@ -22,7 +22,7 @@ https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://i.postimg.cc/cHQDyVpM/TNTSports3.png" group-title="UK | Sports",UK | TNT Sports 3 HD
 https://hls.iill.top/api/TNT-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://i.postimg.cc/V6j7Q3xg/TNTSports4.png" group-title="UK | Sports",UK | TNT Sports 2 HD
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://i.postimg.cc/V6j7Q3xg/TNTSports4.png" group-title="UK | Sports",UK | TNT Sports 4 HD
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8
