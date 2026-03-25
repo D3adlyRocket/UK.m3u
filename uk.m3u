@@ -16,10 +16,14 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://i.postimg.cc/wjT25GQP/Film4.png" group-title="UK | Entertainment",UK | Film 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-
-
-#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-logo="https://i.postimg.cc/jdv2MTGW/tntsports2.png" group-title="UK | Sports",UK | TNT Sports 2 HD
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="UK | Sports",UK | TNT Sports 1 HD
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="UK | Sports",UK | TNT Sports 2 HD
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="UK | Sports",UK | TNT Sports 3 HD
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="UK | Sports",UK | TNT Sports 2 HD
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTSMAIN" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
@@ -46,5 +50,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Back Up",UK | BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-logo="https://i.postimg.cc/jdv2MTGW/tntsports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
