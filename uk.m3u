@@ -15,9 +15,9 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="film4" tvg-logo="https://i.postimg.cc/wjT25GQP/Film4.png" group-title="UK | Entertainment",UK | Film 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-id="CBBC" tvg-logo="" group-title="UK | Entertainment",UK | CBBC
+#EXTINF:-1 tvg-id="CBBC" tvg-logo="https://i.postimg.cc/0yPMKvSr/CBBC.png" group-title="UK | Entertainment",UK | CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="" group-title="UK | Entertainment",UK | Cbeebies
+#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://i.postimg.cc/JzMDH8XG/CBeebies.png" group-title="UK | Entertainment",UK | Cbeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://i.postimg.cc/d18WPzb9/TNTSports1.png"  group-title="UK | Sports",UK | TNT Sports 1 HD
