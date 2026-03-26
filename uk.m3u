@@ -56,5 +56,19 @@ http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6592/index.m3u8
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:-1 tvg-id="BBCTwoHD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="BBC Three HD" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Back Up",UK | BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="BBC Four HD" tvg-logo="https://i.postimg.cc/Bb3tTM7v/bbcfour.png" group-title="UK | Back Up",UK | BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="Channel 4" tvg-logo="" group-title="UK | Back Up",UK | Channel 4
+https://streamer.nexyl.uk/memfs/afc585f8-628b-4582-b6ea-82040d911a0b.m3u8
+#EXTINF:-1 tvg-id="5uk" tvg-logo="" group-title="UK | Back Up",UK | Channel 5
+https://streamer.nexyl.uk/memfs/20ac5d14-b5dd-4c84-b5fb-4a7ad854c180.m3u8
+#EXTINF:-1 tvg-id="ITV2" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Back Up",UK | ITV2
+https://streamer.nexyl.uk/memfs/0027fe9a-bc29-448b-bdce-d3913b8174d5.m3u8
+#EXTINF:-1 tvg-id="ITV3" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Back Up",UK | ITV3
+https://streamer.nexyl.uk/memfs/18c4fc40-f607-468e-b6c1-741c756503bd.m3u8
+#EXTINF:-1 tvg-id="ITV4" tvg-logo="https://i.postimg.cc/9X7dkcx4/ITV4.png" group-title="UK | Back Up",UK | ITV4
+ https://streamer.nexyl.uk/memfs/fd7731a0-2169-4827-9f2a-52c491246d7b.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
