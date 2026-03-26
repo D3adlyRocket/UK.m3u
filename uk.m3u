@@ -37,6 +37,8 @@ http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="GEO TV" tvg-logo="https://i.postimg.cc/TYnVnc3j/GEOTV.png" group-title="IN | Asian",IN | GEO TV HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="&TV" tvg-logo="" group-title="IN | Asian",IN | &TV HD
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-id="B4U Kadak" tvg-logo="https://i.postimg.cc/P5FG2LsX/B4UKadak.png" group-title="IN | Asian",IN | B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/nhw80sbc/B4UMovies.png" group-title="IN | Asian",IN | B4U Movies
