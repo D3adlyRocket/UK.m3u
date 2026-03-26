@@ -30,7 +30,7 @@ https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7337/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
+#EXTINF:-1 tvg-id="Sky Sports Main Event Ultra HDR" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
