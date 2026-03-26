@@ -35,6 +35,8 @@ https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
 
+EXTINF:-1 tvg-id="GEO TV" tvg-logo="" group-title="IN | Asian",IN | GEO TV HD
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6625/index.m3u8
 #EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX HD
@@ -49,8 +51,6 @@ http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6586/index.m3u8
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6589/index.m3u8
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6596/index.m3u8
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6592/index.m3u8
-
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Back Up",UK | BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
