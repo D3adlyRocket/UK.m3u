@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCOneLondonHD" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Entertainment",UK | BBC 1
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC-Two-HD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Entertainment",UK | BBC 2
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC Three HD" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Entertainment",UK | BBC Three
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -35,7 +35,7 @@ https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7335/index.m3u8
 
-EXTINF:-1 tvg-id="GEO TV" tvg-logo="" group-title="IN | Asian",IN | GEO TV HD
+EXTINF:-1 tvg-id="GEO TV" tvg-logo="https://i.postimg.cc/YqrKwvg7/Geo-TV.png" group-title="IN | Asian",IN | GEO TV HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6625/index.m3u8
@@ -54,7 +54,7 @@ http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6592/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Back Up",UK | BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
+#EXTINF:-1 tvg-id="BBCTwoHD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-id="TNTSPORTS2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
