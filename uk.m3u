@@ -76,3 +76,8 @@ https://streamer.nexyl.uk/memfs/18c4fc40-f607-468e-b6c1-741c756503bd.m3u8
  https://streamer.nexyl.uk/memfs/fd7731a0-2169-4827-9f2a-52c491246d7b.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
+
+
+#EXTINF:-1,Channel 4 HD 720p
+#EXTVLCOPT:input-slave=https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-4000000=20001.m3u8
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-avc1_4000000=10000.m3u8
