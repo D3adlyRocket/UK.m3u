@@ -7,6 +7,8 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC Four HD" tvg-logo="https://i.postimg.cc/Bb3tTM7v/bbcfour.png" group-title="UK | Entertainment",UK | BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="Channel 4" tvg-logo="" group-title="UK | Entertainment",UK | Channel 4
+http://127.0.0.1:8080/stream.m3u8
 #EXTINF:-1 tvg-id="ITV2" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Entertainment",UK | ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1 tvg-id="ITV3" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Entertainment",UK | ITV3
@@ -77,7 +79,3 @@ https://streamer.nexyl.uk/memfs/18c4fc40-f607-468e-b6c1-741c756503bd.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
 http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
 
-
-#EXTINF:-1,Channel 4 HD 720p
-#EXTVLCOPT:input-slave=https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-4000000=20001.m3u8
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-avc1_4000000=10000.m3u8
