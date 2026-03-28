@@ -10,7 +10,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-id="Channel 4" tvg-logo="" group-title="UK | Entertainment",UK | C4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id="Channel 5" tvg-logo="" group-title="UK | Entertainment",UK | C5
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-avc1_4000000=10001.m3u8
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4-avc1_4000000=20001.m3u8
 #EXTINF:-1 tvg-id="ITV2" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Entertainment",UK | ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1 tvg-id="ITV3" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Entertainment",UK | ITV3
