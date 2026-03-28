@@ -20,7 +20,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=
 #EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://i.postimg.cc/JzMDH8XG/CBeebies.png" group-title="UK | Entertainment",UK | Cbeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports Ultimate" tvg-name="TNT Sports Ultimate" tvg-logo=""  group-title="UK | Sports",UK | TNT Sports Ultimate 
+#EXTINF:-1 tvg-id="TNT Sports Ultimate" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.postimg.cc/MGwkc3F5/TNTSportsUltimate.png"  group-title="UK | Sports",UK | TNT Sports Ultimate 
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://i.postimg.cc/d18WPzb9/TNTSports1.png"  group-title="UK | Sports",UK | TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
