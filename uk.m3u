@@ -60,6 +60,10 @@ https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/a
 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="UK | Kids",UK | Nickelodeon 
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+
+
 #EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Back Up",UK | BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:-1 tvg-id="BBCTwoHD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
