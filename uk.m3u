@@ -27,7 +27,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Ultimate" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.postimg.cc/MGwkc3F5/TNTSportsUltimate.png"  group-title="UK | Sports",UK | TNT Sports Ultimate 
-https://a1xs.vip/2000031
+https://freelivtvstrshare.vvishwas042.workers.dev/play.m3u8?id=384243
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://i.postimg.cc/d18WPzb9/TNTSports1.png"  group-title="UK | Sports",UK | TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png"  group-title="UK | Sports",UK | TNT Sports 2 HD
@@ -39,7 +39,7 @@ https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="Sky Sports Main Event Ultra HDR" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
+https://freelivtvstrshare.vvishwas042.workers.dev/play.m3u8?id=384215
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-logo="https://i.postimg.cc/28H4Frg2/Cricket.png" group-title="UK | Sports",UK | Sky Sports Cricket HD
